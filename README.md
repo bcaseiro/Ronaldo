@@ -40,5 +40,7 @@ Example --> python ronaldo.py bcaseiro /tmp/serverlist.txt
 Note: Oracle servers should be listed with its instance name, like the list below:
 
 oracleserver01/xe
+
 oracleserver02/dev
+
 oracleserver03/production
