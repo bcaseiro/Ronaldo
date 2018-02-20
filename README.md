@@ -1,4 +1,4 @@
-# Video Demonstrating how the tool works:
+# Video Demonstrating how it works:
 
 https://www.youtube.com/watch?v=d8ANItKGWzg 
 
